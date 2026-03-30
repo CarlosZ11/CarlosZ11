@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Carlos Zambrano</h1>
-<h3 align="center">A passionate fullstack developer from Colombia</h3>
+<h3 align="center">Systems Engineer from Universidad Popular del Cesar | Fullstack Developer from Colombia</h3>
 
 # 💫 About Me:
 🔭 I’m currently working on **Oculus-App Mobile application for ophthalmological management Mobile application for ophthalmological management**<br><br>🌱 I’m currently learning **React Js, Node Js, Express Js, Tailwind CSS, PostgreSQL**<br><br>💬 Ask me about **Dart, Flutter, Firebase, Supabase**<br><br>📫 How to reach me **carloszambranop11@gmail.com**
