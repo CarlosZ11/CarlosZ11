@@ -2,11 +2,7 @@
 <h3 align="center">Systems Engineer from Universidad Popular del Cesar | Fullstack Developer from Colombia</h3>
 
 # 💫 About Me:
-🎓 Systems Engineer from **Universidad Popular del Cesar**<br><br>
-🚀 I’m currently developing **Visenda**, a clinical ecosystem for ophthalmological management<br><br>
-💻 I work with **React Js, Node Js, Express Js, Tailwind CSS, PostgreSQL, Flutter**<br><br>
-💬 Ask me about **Dart, Flutter, Firebase, Supabase, Backend Architecture**<br><br>
-📫 How to reach me **carloszambranop11@gmail.com**
+🎓 Systems Engineer from **Universidad Popular del Cesar**<br><br>🚀 I’m currently developing **Visenda**, a clinical ecosystem for ophthalmological management<br><br>💻 I work with **React Js, Node Js, Express Js, Tailwind CSS, PostgreSQL, Flutter**<br><br>💬 Ask me about **Dart, Flutter, Firebase, Supabase, Backend Architecture**<br><br>📫 How to reach me **carloszambranop11@gmail.com**
 
 
 ## 🌐 Socials:
